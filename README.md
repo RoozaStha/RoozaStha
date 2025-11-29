@@ -50,11 +50,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=RoozaStha&theme=radical&no-frame=true&row=1)
-
----
-
 ## 💼 Featured Projects
 
 ### **🏥 Doctor Appointment System**
