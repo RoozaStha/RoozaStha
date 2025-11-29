@@ -50,20 +50,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Roja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoozaStha&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoozaStha&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoozaStha&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=RoozaStha&theme=radical&no-frame=true&row=1)
 
